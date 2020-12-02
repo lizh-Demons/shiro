@@ -69,5 +69,6 @@ class ShiroApplicationTests {
     }
     public static void main(String[] args) {
         testShiroLogin("xiaohei","123456");
+        System.out.println("李忠华测试");
     }
 }
